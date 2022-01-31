@@ -189,6 +189,10 @@ After and hour of run time, the stats on the dashboard at this time indicated no
 
 ![](assets/S19After.png)
 
+Here is a video of the S19 running inside the enclosure:
+
+[![Sound Test](/assets/SoundTest.png)](https://media.econoalchemist.com/w/qVaURoxZEhSU1zTEJbXGT7 "Sound Test")
+
 ## Conclusion
 This guide should have given you the basic explanations needed to see how you can build an indoor rated enclosure that will attenuate the noise of the ASIC by as much as 20dB. Different materials can be experimented with to try and achieve even more noise attenuation. For less than $150 and some elbow grease, this is a great solution for DIY enthusiasts who want to build their own enclosure based on the BlackBox design from Upstream Data. 
 
