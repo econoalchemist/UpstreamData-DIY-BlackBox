@@ -14,7 +14,7 @@ Here is a time-lapse video of the whole build process for you to come back to an
 ## Step 1: Materials
 The first step is to gather the materials you want. These are the materials shown in this guide, but feel free to experiment with other materials. 
 
-Everything used for materials on this project was purchased from Home Depot for just under $150.00 USD at the time of writting, January 2022. There are a variety of materials to use for linning the inside of the enclosure. You do not need to use the materials listed here. The reasoning for these specific materials will be discussed below but feel free to experiment and find what works best for you. 
+Everything used for materials on this project was purchased from Home Depot for just under $150.00 USD at the time of writing, January 2022. There are a variety of materials to use for lining the inside of the enclosure. You do not need to use the materials listed here. The reasoning for these specific materials will be discussed below but feel free to experiment and find what works best for you. 
 
 - 1 X OSB sheet, 7/16" x 48" x 96" [example](https://www.homedepot.com/p/LP-OSB-7-16-in-Sheathing-Panel-Application-as-4-ft-x-8-ft-386081/202106230)
 - 1 X asphalt sheet, 1/2" x 48" x 96" [example](https://www.homedepot.com/p/1-2-in-x-4-ft-x-8-ft-Southern-Pine-Asphalt-Impregnated-Board-A11230848096/206086210)
@@ -30,7 +30,7 @@ The OSB was used because it is easy to work with, relatively cheap, and widely a
 
 The asphalt board was used because it is good at noise absorption.
 
-The Dense Shield backer board was used becuase it is a heavy dense material good for blocking noise.
+The Dense Shield backer board was used because it is a heavy dense material good for blocking noise.
 
 Consider using different materials if you have ideas you want to try out.
 
@@ -54,9 +54,9 @@ Consider getting at least these tools before starting your project.
 
 ![](assets/darwing00.png)
 
-This is the drawing that was used to prepare the OSB, asphalt board, and Dense Shield. All layers of these three materials in the guide were glued together with the Liquid Nails as the individual pieces were assembled. All pieces were first cut to these rough dimensions. Depending on the materials you decide to use for linning your enclosure, the final dimensions may vary. Starting with these rough dimensions is recommended, then during the assembly process you will be able to cut down pieces to be the correct size accordingly. 
+This is the drawing that was used to prepare the OSB, asphalt board, and Dense Shield. All layers of these three materials in the guide were glued together with the Liquid Nails as the individual pieces were assembled. All pieces were first cut to these rough dimensions. Depending on the materials you decide to use for lining your enclosure, the final dimensions may vary. Starting with these rough dimensions is recommended, then during the assembly process you will be able to cut down pieces to be the correct size accordingly. 
 
-For example, the final exterior dimensions of the enclosure are 32" H x 33" L x 16" W. However, the dimensions of the interior pieces were only 13-1/2" wide becuase of the space taken up by the linning materials. The dimensions of the pieces you use on the interrior of your enclosure will be determined by the thickness of the linning materials you have selected. 
+For example, the final exterior dimensions of the enclosure are 32" H x 33" L x 16" W. However, the dimensions of the interior pieces were only 13-1/2" wide because of the space taken up by the lining materials. The dimensions of the pieces you use on the interior of your enclosure will be determined by the thickness of the lining materials you have selected. 
 
 The OSB, asphalt board, and Dense Shield were all cut to the sizes of the pieces in the drawing above. 
 
@@ -107,7 +107,7 @@ Next, cut the remaining (E) pieces of the Dense Shield and asphalt board to fit 
 ![](assets/box13.jpg)
 ![](assets/box14.jpg)
 
-You can use the foil tape to help keep the corners clean. This should also help keep the edges from deterriorating over time. 
+You can use the foil tape to help keep the corners clean. This should also help keep the edges from deteriorating over time. 
 
 ![](assets/box15.jpg)
 ![](assets/box16.jpg)
@@ -128,7 +128,7 @@ Repeat that same process for the asphalt board.
 ![](assets/box21.jpg)
 ![](assets/box23.jpg)
 
-Then the (D) pieces of OSB, Dense Shield, and asphalt board were fastened to the top of the "T", using the lumber as the anchor point. The (D) piece of OSB should be fastened perpendicular and center with the (C) piece of OSB. Once attached, the (D) pieces were glued to the top and some smaller pieces of Dense Shield were added to the under-side of the (D) piece. The vent register cutout was taped over with the foil tape to help keep the edges clean and to prevent them from deterriorating over time. 
+Then the (D) pieces of OSB, Dense Shield, and asphalt board were fastened to the top of the "T", using the lumber as the anchor point. The (D) piece of OSB should be fastened perpendicular and center with the (C) piece of OSB. Once attached, the (D) pieces were glued to the top and some smaller pieces of Dense Shield were added to the under-side of the (D) piece. The vent register cutout was taped over with the foil tape to help keep the edges clean and to prevent them from deteriorating over time. 
 
 ![](assets/box24.jpg)
 ![](assets/box25.jpg)
@@ -136,10 +136,59 @@ Then the (D) pieces of OSB, Dense Shield, and asphalt board were fastened to the
 ![](assets/box27.jpg)
 ![](assets/box28.jpg)
 
-Once the "T" is all assembled, align it with the center of the enclosure, in this example, that was 16" on center for the outter edge of the corner posts.
+Once
+ the "T" is all assembled, align it with the center of the enclosure, in this example, that was 16" on center for the outer edge of the corner posts.
 
 ![](assets/box29.jpg)
 
-The "T" then can be fastened to the enclosure from the back (closed) side, driving a long screw through the OSB, Dense Shield, & asphalt board and into the lumber material that was fastened to the top and bottom of the (C) piece. Once the other (A) piece is set into place, long screws will be used to drive through the layers and into the ends of the four pieces of lumber as indicated here with red dots. 
+The "T" then can be fastened to the enclosure from the back (closed) side, driving a long screw through the OSB, Dense Shield, & asphalt board and into the lumber material that was fastened to the top and bottom of the (C) piece. Once the other (A) piece is set into place, long screws will be used to drive through the layers and into the ends of the six pieces of lumber as indicated here with red dots. 
 
-![](assets/box30_1.png)
+![](assets/box30_1.jpg)
+
+## Step 7: Finish the side and top
+Now the remaining side piece (A) can be fit into place by removing the width of the two corner pieces of lumber. So in this example, the original pieces of asphalt board and Dense Shield were 32" wide, then 5" was cut off the sides to account for the two corner posts. The enclosure was layered on its side and the asphalt board and Dense Shield was put in place, then the 32" x 32" (A) piece of OSB was layered on top of them and fastened into place using the long screws to anchor into the six pieces of lumber as indicated above. Liquid Nails was used in between each layer.
+
+![](assets/box31.jpg)
+
+Then foil tape was used just to keep all the edges clean and to prevent splintering/deterioration. 
+
+![](assets/box32.jpg)
+![](assets/box33.jpg)
+![](assets/box34.jpg)
+![](assets/box35.jpg)
+
+Then for the top, the idea here was that the OSB would lie flush over the top edges of the enclosure and a layer of Dense Shield and asphalt board would be attached to the under-side of the top so that they fit down inside the enclosure. The remaining 32" x 16" (B) pieces had to be cut to fit the final interior length and width and notched out for the corner posts. 
+
+![](assets/box36.jpg)
+![](assets/box37.jpg)
+![](assets/box38.jpg)
+
+All the layers were glued together with Liquid Nails and screws were also used to help keep the layers attached to the underside of the top OSB piece. Two short pieces of chain were also used as make-shift handles and fastened to the top so that it could be removed with ease. All the edges were covered with foil tape to help keep them from splintering/deteriorating. 
+
+## Testing
+Using an S19j Pro as the test subject, noise level readings were measure with the ASIC running in open air at ~78dB. 
+
+![](box39.jpg)
+
+The stats on the dashboard at this time indicated normal operation with hash rate at ~113Th, outlet temperatures ranging from  67° C - 72° C, and fan speeds holding steady at 5,040 RPM. 
+
+![](S19Before.png)
+
+The S19 was placed inside the enclosure on its side and flush up against one of the interior walls. It is important to create a pressure barrier between the cool intake side of the enclosure and the hot exhaust side of the enclosure. From the top edge of the S19 to the top edge of the enclosure, there was a 1-1/2" gap. The layered material on the underside of the top measured 1". This required 1/2" of air space to be blocked off in order to maintain a good pressure seal between the hot and cold sides. For this demonstration some towels were used to take up the air space on the top and side of the S19. 
+
+![](assets/box40.jpg)
+![](assets/box41.jpg)
+![](assets/box42.jpg)
+![](assets/box43.jpg)
+
+After starting the S19 back up and letting the system stabilize, another noise reading was measured with the SPL meter, this time there was a ~20dB attenuation. 
+
+![](assets/box44.jpg)
+
+After and hour of run time, the stats on the dashboard at this time indicated normal operation with hash rate at ~110Th, outlet temperatures ranging from  66° C - 67° C, and fan speeds holding steady at 4,920 - 5,040 RPM. 
+
+![](assets/S19After.png)
+
+## Conclusion
+This guide should have given you the basic explanations needed to see how you can build an indoor rated enclosure that will attenuate the noise of the ASIC by as much as 20dB. Different materials can be experimented with to try and achieve even more noise attenuation. For less than $150 and some elbow grease, this is a great solution for DIY enthusiasts who want to build their own enclosure based on the BlackBox design from Upstream Data. 
+
