@@ -54,13 +54,92 @@ Consider getting at least these tools before starting your project.
 
 ![](assets/darwing00.png)
 
-This is the drawing that was used to prepare the OSB, asphalt board, and Dense Shield. All pieces were first cut to these rough dimensions. Depending on the materials you decide to use for linning your enclosure, the final dimensions may vary. Starting with these rough dimensions is recommended, then during the assembly process you will be able to cut down pieces to be the correct size accordingly. 
+This is the drawing that was used to prepare the OSB, asphalt board, and Dense Shield. All layers of these three materials in the guide were glued together with the Liquid Nails as the individual pieces were assembled. All pieces were first cut to these rough dimensions. Depending on the materials you decide to use for linning your enclosure, the final dimensions may vary. Starting with these rough dimensions is recommended, then during the assembly process you will be able to cut down pieces to be the correct size accordingly. 
 
-For example, the final exterior dimensions of the enclosure are 32" H x 32" L x 16" W. However, the dimensions of the interior pieces were only 13-1/2" wide becuase of the space taken up by the linning materials. The dimensions of the pieces you use on the interrior of your enclosure will be determined by the thickness of the linning materials you have selected. 
+For example, the final exterior dimensions of the enclosure are 32" H x 33" L x 16" W. However, the dimensions of the interior pieces were only 13-1/2" wide becuase of the space taken up by the linning materials. The dimensions of the pieces you use on the interrior of your enclosure will be determined by the thickness of the linning materials you have selected. 
 
 The OSB, asphalt board, and Dense Shield were all cut to the sizes of the pieces in the drawing above. 
 
 ## Step 4: Assemble the frame
-Once all the pieces are cut to the rough sizes, start with the bottom piece of OSB, 16" x 32". Cut 4 pieces of lumber at 31-1/2" to make the corners. Then drive a screw into each piece of lumber, aligning it with the corner of the base. 
+Once all the pieces are cut to the rough sizes, start with the bottom piece of OSB, 16" x 32". Cut 4 pieces of lumber at 31-1/2" to make the corners. Then drive a screw into each piece of lumber from the OSB side to fasten the corners to the board, aligning them with the corners. Then you can notch out the corners of the piece of Dense Shield that will be placed on the bottom of the frame, on top of the OSB. The Dense Shield is glued to the OSB. You can also fasten the two 16" x 16" end pieces (D) to either end of the frame, as well as attach one of the 32" x 32" sides. 
+
+![](assets/box00.jpg)
+
+Then you can notch out the corners of the piece of asphalt board that will be placed on the bottom of the frame, on top of and glued to the Dense Shield. A screw was used in each corner of layered pieces to help keep them together.
+
+![](assets/box01.jpg)
+
+Then you can now take a 32" x 32" (A) piece of the Dense Shield and asphalt board and fit them to the interior-side of the frame by cutting off the material that is taken up by the corner pieces. Then you can trim the excess material off the top of the Dense Shield and asphalt board to make them even with the OSB.
+
+![](assets/box02.jpg)
+
+So far, you have something like this, where you have an OSB frame with layered Dense Shield and asphalt board on the bottom and one of the sides.
+
+![](assets/box03.jpg)
+![](assets/box04.jpg)
 
 
+## Step 5: Add the wings
+Next, measure and cut a piece of lumber to fit in between the corner posts on either end. In this example, these pieces were 13" in length. Align these pieces so the bottom of the lumber is even with the bottom of the OSB. Then you can use a long screw to fasten it into place from the covered 32" x 32" side as well as take a short screw and fasten it from the 16" x 16" OSB end piece, the other side of the piece of lumber will be fastened once the final piece of OSB is in place on the open side. 
+
+![](assets/box05.jpg)
+![](assets/box06.jpg)
+
+Next, take two of the 7" x 16" (E) pieces and cut them to the final interior dimension width. In this case it was 13-1/2" after the 1/2" of OSB from the first side is subtracted, as well as subtracting the layers of Dense Shield and asphalt board from both sides. Keep in mind, these dimensions are going to change based on the materials you select, so make sure you measure twice and cut once. You will also need to notch out the corners of the (E) pieces to fit around the corner posts. Fasten the (E) pieces to the bottom of the piece of lumber you attached in the last step. The edge of the (E) piece should be even with the edge of the (D) piece.
+
+![](assets/box08.jpg)
+
+Next, cut two more pieces of lumber to the same length as the final interior dimension, 13-1/2" in this case. Then fasten these pieces of lumber to the bottom of the (E) pieces. The edge of the lumber should be even with the edge of the (E) piece. 
+
+![](assets/box09.jpg)
+
+Next, take the other two (E) pieces and attach them to the face of the piece of lumber you fastened in the last step.  
+
+![](assets/box10.jpg)
+![](assets/box10.jpg)
+
+Next, cut the pieces of Dense shield and asphalt board to fit the face edge, adding glue in between each layer. 
+
+![](assets/box12.jpg)
+
+Next, cut the remaining (E) pieces of the Dense Shield and asphalt board to fit over the top of all three layers on the face edge.
+
+![](assets/box13.jpg)
+![](assets/box14.jpg)
+
+You can use the foil tape to help keep the corners clean. This should also help keep the edges from deterriorating over time. 
+
+![](assets/box15.jpg)
+![](assets/box16.jpg)
+
+## Step 6: Build the "T"
+For the "T" piece that goes in the center, first cut the width appropriately for the finished interior dimensions. Then you can cut two more pieces of lumber and attach them to the top and bottom of the (C) piece of OSB, aligning the edges. Then you can place the vent register on that, trace it, then cut it out so the register fits through. For the "T", a piece of Dense Shield and asphalt board were used on both sides of the OSB, so in total, the "T" had 5 layers.
+
+![](assets/box17.jpg)
+![](assets/box18.jpg)
+![](assets/box19.jpg)
+
+Then align the (C) piece of Dense Shield with the OSB and trace out for the vent through the hole you just cut out. 
+
+![](assets/box20.jpg)
+
+Repeat that same process for the asphalt board. 
+
+![](assets/box21.jpg)
+![](assets/box23.jpg)
+
+Then the (D) pieces of OSB, Dense Shield, and asphalt board were fastened to the top of the "T", using the lumber as the anchor point. The (D) piece of OSB should be fastened perpendicular and center with the (C) piece of OSB. Once attached, the (D) pieces were glued to the top and some smaller pieces of Dense Shield were added to the under-side of the (D) piece. The vent register cutout was taped over with the foil tape to help keep the edges clean and to prevent them from deterriorating over time. 
+
+![](assets/box24.jpg)
+![](assets/box25.jpg)
+![](assets/box26.jpg)
+![](assets/box27.jpg)
+![](assets/box28.jpg)
+
+Once the "T" is all assembled, align it with the center of the enclosure, in this example, that was 16" on center for the outter edge of the corner posts.
+
+![](assets/box29.jpg)
+
+The "T" then can be fastened to the enclosure from the back (closed) side, driving a long screw through the OSB, Dense Shield, & asphalt board and into the lumber material that was fastened to the top and bottom of the (C) piece. Once the other (A) piece is set into place, long screws will be used to drive through the layers and into the ends of the four pieces of lumber as indicated here with red dots. 
+
+![](assets/box30_1.png)
