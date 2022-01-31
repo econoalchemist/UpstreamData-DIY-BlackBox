@@ -7,7 +7,7 @@ This guide will show you how to use less than $150 in commonly available materia
 
 The original idea was for DIY enthusiasts to be able to use a single sheet of plywood, or other suitable material, to build a noise attenuating enclosure for a single new-generation ASIC or two S9 ASICs. This guide will demonstrate how to build an enclosure for indoor use.  
 
-Here is a time-lapse video of the whole build process for you to come back to and reference.
+Here is a time-lapse video of the whole build process for you to come back to and reference. https://media.econoalchemist.com/w/7Uvm1zEmMYTfFW5uicZZBb
 
 
 
