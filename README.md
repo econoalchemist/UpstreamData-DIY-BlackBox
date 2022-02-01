@@ -56,7 +56,7 @@ Consider getting at least these tools before starting your project.
 
 ## Step 3: Preparation
 
-![](assets/darwing00.png)
+![](assets/drawing00.png)
 
 This is the drawing that was used to prepare the OSB, asphalt board, and Dense Shield. All layers of these three materials in the guide were glued together with the Liquid Nails as the individual pieces were assembled. All pieces were first cut to these rough dimensions. Depending on the materials you decide to use for lining your enclosure, the final dimensions may vary. Starting with these rough dimensions is recommended, then during the assembly process you will be able to cut down pieces to be the correct size accordingly. 
 
