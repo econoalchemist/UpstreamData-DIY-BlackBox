@@ -168,11 +168,11 @@ All the layers were glued together with Liquid Nails and screws were also used t
 ## Testing
 Using an S19j Pro as the test subject, noise level readings were measure with the ASIC running in open air at ~78dB. 
 
-![](box39.jpg)
+![](assets/box39.jpg)
 
 The stats on the dashboard at this time indicated normal operation with hash rate at ~113Th, outlet temperatures ranging from  67° C - 72° C, and fan speeds holding steady at 5,040 RPM. 
 
-![](S19Before.png)
+![](assets/S19Before.png)
 
 The S19 was placed inside the enclosure on its side and flush up against one of the interior walls. It is important to create a pressure barrier between the cool intake side of the enclosure and the hot exhaust side of the enclosure. From the top edge of the S19 to the top edge of the enclosure, there was a 1-1/2" gap. The layered material on the underside of the top measured 1". This required 1/2" of air space to be blocked off in order to maintain a good pressure seal between the hot and cold sides. For this demonstration some towels were used to take up the air space on the top and side of the S19. 
 
