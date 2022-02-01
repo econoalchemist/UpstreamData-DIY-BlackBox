@@ -96,7 +96,7 @@ Next, cut two more pieces of lumber to the same length as the final interior dim
 Next, take the other two (E) pieces and attach them to the face of the piece of lumber you fastened in the last step.  
 
 ![](assets/box10.jpg)
-![](assets/box10.jpg)
+![](assets/box11.jpg)
 
 Next, cut the pieces of Dense shield and asphalt board to fit the face edge, adding glue in between each layer. 
 
