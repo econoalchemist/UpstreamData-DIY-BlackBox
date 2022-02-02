@@ -80,6 +80,7 @@ Then you can now take a 32" x 32" (A) piece of the Dense Shield and asphalt boar
 So far, you have something like this, where you have an OSB frame with layered Dense Shield and asphalt board on the bottom and one of the sides.
 
 ![](assets/box03.jpg)
+
 ![](assets/box04.jpg)
 
 
@@ -87,6 +88,7 @@ So far, you have something like this, where you have an OSB frame with layered D
 Next, measure and cut a piece of lumber to fit in between the corner posts on either end. In this example, these pieces were 13" in length. Align these pieces so the bottom of the lumber is even with the bottom of the OSB. Then you can use a long screw to fasten it into place from the covered 32" x 32" side as well as take a short screw and fasten it from the 16" x 16" OSB end piece, the other side of the piece of lumber will be fastened once the final piece of OSB is in place on the open side. 
 
 ![](assets/box05.jpg)
+
 ![](assets/box06.jpg)
 
 Next, take two of the 7" x 16" (E) pieces and cut them to the final interior dimension width. In this case it was 13-1/2" after the 1/2" of OSB from the first side is subtracted, as well as subtracting the layers of Dense Shield and asphalt board from both sides. Keep in mind, these dimensions are going to change based on the materials you select, so make sure you measure twice and cut once. You will also need to notch out the corners of the (E) pieces to fit around the corner posts. Fasten the (E) pieces to the bottom of the piece of lumber you attached in the last step. The edge of the (E) piece should be even with the edge of the (D) piece.
@@ -100,6 +102,7 @@ Next, cut two more pieces of lumber to the same length as the final interior dim
 Next, take the other two (E) pieces and attach them to the face of the piece of lumber you fastened in the last step.  
 
 ![](assets/box10.jpg)
+
 ![](assets/box11.jpg)
 
 Next, cut the pieces of Dense shield and asphalt board to fit the face edge, adding glue in between each layer. 
@@ -109,18 +112,22 @@ Next, cut the pieces of Dense shield and asphalt board to fit the face edge, add
 Next, cut the remaining (E) pieces of the Dense Shield and asphalt board to fit over the top of all three layers on the face edge.
 
 ![](assets/box13.jpg)
+
 ![](assets/box14.jpg)
 
 You can use the foil tape to help keep the corners clean. This should also help keep the edges from deteriorating over time. 
 
 ![](assets/box15.jpg)
+
 ![](assets/box16.jpg)
 
 ## Step 6: Build the "T"
 For the "T" piece that goes in the center, first cut the width appropriately for the finished interior dimensions. Then you can cut two more pieces of lumber and attach them to the top and bottom of the (C) piece of OSB, aligning the edges. Then you can place the vent register on that, trace it, then cut it out so the register fits through. For the "T", a piece of Dense Shield and asphalt board were used on both sides of the OSB, so in total, the "T" had 5 layers.
 
 ![](assets/box17.jpg)
+
 ![](assets/box18.jpg)
+
 ![](assets/box19.jpg)
 
 Then align the (C) piece of Dense Shield with the OSB and trace out for the vent through the hole you just cut out. 
@@ -130,14 +137,19 @@ Then align the (C) piece of Dense Shield with the OSB and trace out for the vent
 Repeat that same process for the asphalt board. 
 
 ![](assets/box21.jpg)
+
 ![](assets/box23.jpg)
 
 Then the (D) pieces of OSB, Dense Shield, and asphalt board were fastened to the top of the "T", using the lumber as the anchor point. The (D) piece of OSB should be fastened perpendicular and center with the (C) piece of OSB. Once attached, the (D) pieces were glued to the top and some smaller pieces of Dense Shield were added to the under-side of the (D) piece. The vent register cutout was taped over with the foil tape to help keep the edges clean and to prevent them from deteriorating over time. 
 
 ![](assets/box24.jpg)
+
 ![](assets/box25.jpg)
+
 ![](assets/box26.jpg)
+
 ![](assets/box27.jpg)
+
 ![](assets/box28.jpg)
 
 Once
@@ -157,14 +169,19 @@ Now the remaining side piece (A) can be fit into place by removing the width of 
 Then foil tape was used just to keep all the edges clean and to prevent splintering/deterioration. 
 
 ![](assets/box32.jpg)
+
 ![](assets/box33.jpg)
+
 ![](assets/box34.jpg)
+
 ![](assets/box35.jpg)
 
 Then for the top, the idea here was that the OSB would lie flush over the top edges of the enclosure and a layer of Dense Shield and asphalt board would be attached to the under-side of the top so that they fit down inside the enclosure. The remaining 32" x 16" (B) pieces had to be cut to fit the final interior length and width and notched out for the corner posts. 
 
 ![](assets/box36.jpg)
+
 ![](assets/box37.jpg)
+
 ![](assets/box38.jpg)
 
 All the layers were glued together with Liquid Nails and screws were also used to help keep the layers attached to the underside of the top OSB piece. Two short pieces of chain were also used as make-shift handles and fastened to the top so that it could be removed with ease. All the edges were covered with foil tape to help keep them from splintering/deteriorating. 
@@ -178,12 +195,27 @@ The stats on the dashboard at this time indicated normal operation with hash rat
 
 ![](assets/S19Before.png)
 
-The S19 was placed inside the enclosure on its side and flush up against one of the interior walls. It is important to create a pressure barrier between the cool intake side of the enclosure and the hot exhaust side of the enclosure. From the top edge of the S19 to the top edge of the enclosure, there was a 1-1/2" gap. The layered material on the underside of the top measured 1". This required 1/2" of air space to be blocked off in order to maintain a good pressure seal between the hot and cold sides. For this demonstration some towels were used to take up the air space on the top and side of the S19. 
+Depending on which ASIC you have, they will fit a little differently in the enclosure, but both the Antminer S19 and the Whatsminer M30S series miners will fit. Bother ASICs will need to rest on their side and either flush up against one of the interior walls to reduce the amount of material needed for the pressure barrier, or in the center if you want the miner to be symetrical. The pressure barrier is important to separate the cool intake side of the enclosure and the hot exhaust side of the enclosure. 
 
-![](assets/box40.jpg)
-![](assets/box41.jpg)
-![](assets/box42.jpg)
-![](assets/box43.jpg)
+![](assets/S1901.jpg)
+
+![](assets/whatsminer00.jpg)
+
+From the top edge of the S19 to the top edge of the enclosure, there was a ~1-1/2" gap. The layered material on the underside of the top measured 1". This required 1/2" of air space to be blocked off in order to maintain a good pressure seal between the hot and cold sides. 
+
+![](assets/S1902.jpg)
+
+From the side edge of the S19 to the interior edge of the enclosure, there was a ~2" gap. These gaps can be blocked with a variety of materials. Just so long as there is an air tight seal around the ASIC to keep the hot and cold sides separate. 
+
+![](assets/S1903.jpg)
+
+From the top edge of the Whatsminer to the top edge of the enclosure, there was a ~3-5/8" gap. The layered material on the underside of the top measured 1". This required 2-5/8" of air space to be blocked off in order to maintain a good pressure seal between the hot and cold sides. 
+
+![](whatsminer01.jpg)
+
+From the side edge of the Whatsminer to the interior edge of the enclosure, there was a ~4-5/8" gap. These gaps can be blocked with a variety of materials. Just so long as there is an air tight seal around the ASIC to keep the hot and cold sides separate. 
+
+![](whatsminer02.jpg)
 
 After starting the S19 back up and letting the system stabilize, another noise reading was measured with the SPL meter, this time there was a ~20dB attenuation. 
 
@@ -200,3 +232,10 @@ Here is a video of the S19 running inside the enclosure:
 ## Conclusion
 This guide should have given you the basic explanations needed to see how you can build an indoor rated enclosure that will attenuate the noise of the ASIC by as much as 20dB. Different materials can be experimented with to try and achieve even more noise attenuation. For less than $150 and some elbow grease, this is a great solution for DIY enthusiasts who want to build their own enclosure based on the BlackBox design from Upstream Data. 
 
+There are many great resources from DIY enthusiasts that have been building off of the original BlackBox idea:
+
+The [guide](https://bikesandbitcoin.substack.com/p/ep015-mining-bitcoin-in-an-apartment) from [@BikesandBitcoin](https://twitter.com/BikesandBitcoin)
+
+The [guide](https://yooperhodl.substack.com/p/yooper-crate) from [@yooperHodl](https://twitter.com/yooperHodl)
+
+The [guide](https://www.reddit.com/r/BitcoinMining/comments/qqsbta/hobby_mining_journey_in_vietnam/) from [@Quierespowpow](https://twitter.com/Quierespowpow)
