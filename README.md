@@ -211,11 +211,11 @@ From the side edge of the S19 to the interior edge of the enclosure, there was a
 
 From the top edge of the Whatsminer to the top edge of the enclosure, there was a ~3-5/8" gap. The layered material on the underside of the top measured 1". This required 2-5/8" of air space to be blocked off in order to maintain a good pressure seal between the hot and cold sides. 
 
-![](whatsminer01.jpg)
+![](assets/whatsminer01.jpg)
 
 From the side edge of the Whatsminer to the interior edge of the enclosure, there was a ~4-5/8" gap. These gaps can be blocked with a variety of materials. Just so long as there is an air tight seal around the ASIC to keep the hot and cold sides separate. 
 
-![](whatsminer02.jpg)
+![](assets/whatsminer02.jpg)
 
 After starting the S19 back up and letting the system stabilize, another noise reading was measured with the SPL meter, this time there was a ~20dB attenuation. 
 
