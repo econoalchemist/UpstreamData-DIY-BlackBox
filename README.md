@@ -13,7 +13,7 @@ The commercial version manufactured by Upstream Data Inc., [which can be found h
 
 Here is a time-lapse video of the whole build process for you to come back to and reference as you read through this guide. 
 
-[![Simple Enclosure Timelapse](/assets/SimpleEnclosure.png)](https://media.econoalchemist.com/w/7Uvm1zEmMYTfFW5uicZZBb "Simple Enclosure Timelapse")
+[![Simple Enclosure Timelapse](/assets/SimpleEnclosure.png)](https://media.econoalchemist.com/w/ctw4SfU9WpAD8Zuemx3yGn "Simple Enclosure Timelapse")
 
 ## Step 1: Materials
 The first step is to gather the materials you want. These are the materials shown in this guide, but feel free to experiment with other materials. Be mindful of fire risks and be thinking about what hazards you introduce into your home with this kind of project. Always consult a licensed electrician before plugging in mining equipment.  
