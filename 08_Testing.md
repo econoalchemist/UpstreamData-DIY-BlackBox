@@ -39,4 +39,4 @@ After an hour of run time, the stats on the dashboard at this time indicated nor
 
 Here is a video of the S19 running inside the enclosure:
 
-[![Sound Test](/assets/SoundTest.png)](https://media.econoalchemist.com/w/qVaURoxZEhSU1zTEJbXGT7 "Sound Test")
+[![Sound Test](/assets/SoundTest.png)](https://media.econoalchemist.com/w/bzDgXpgP9b6bcDeQmrUJa2 "Sound Test")
